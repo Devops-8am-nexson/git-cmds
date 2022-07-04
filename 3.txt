@@ -3,3 +3,5 @@ file name3 changes are added, updating the new line
 file name3 changes are added 
 added new line in git hub 
 
+only feacting the chnages 
+
